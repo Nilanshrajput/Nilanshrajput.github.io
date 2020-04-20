@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Nilansh Rajput"
-  avatar           : "/assets/images/nilansh.jpg"
+  avatar           : "/images/nilansh.png"
   bio              : "NLP Team Member at OpenMined, Building SyferText a Privacy Preserving NLP Library."
   location         : "Ropar"
   email            : "2017csb1092@iitrpr.ac.in"

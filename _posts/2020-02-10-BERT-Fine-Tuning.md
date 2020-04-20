@@ -3,7 +3,7 @@ title: "BERT-Fine-Tuning"
 date: 2020-02-10
 tags: [NLP, data scraping, BERT, Transformer, Deep Learning]
 header:
-  image: "/images/BERT.jpg"
+  image: "/images/BERT.png"
 excerpt: "NLP, data scraping, BERT, Transformer, Deep Learning"
 mathjax: "true"
 ---

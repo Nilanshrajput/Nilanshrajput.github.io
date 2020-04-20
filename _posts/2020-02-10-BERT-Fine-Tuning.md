@@ -1,5 +1,5 @@
 ---
-title: "Fine-tuning Bert for Patent Category Classification"
+title: "Deep Learning projects: BERT-Fine-Tuning"
 date: 2020-02-10
 tags: [NLP, data scraping, BERT, Transformer, Deep Learning]
 header:
